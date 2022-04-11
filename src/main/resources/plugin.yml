@@ -1,0 +1,8 @@
+name: ExampleStartCode
+version: '${project.version}'
+main: me.smudge.examplestartcode.ExampleStartCode
+api-version: 1.18
+authors: [ Smudge ]
+commands:
+  ex:
+    usage: /<command>
